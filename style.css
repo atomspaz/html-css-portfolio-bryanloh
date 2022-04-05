@@ -176,6 +176,10 @@ a {
   gap: 2rem;
 }
 
+.project-name-container h3 {
+  font-family: var(--body--font);
+}
+
 .project-btn {
   border-radius: 8px;
   background-color: var(--yellow);
@@ -190,6 +194,10 @@ a {
   letter-spacing: 1px;
   font-family: var(--body--font);
   width: 10em;
+}
+
+.project--p {
+  font-family: var(--body--font);
 }
 
 .image-project-container {
